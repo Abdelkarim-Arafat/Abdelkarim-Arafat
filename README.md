@@ -29,7 +29,7 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect With Me
 
 <p align="center">
-	<a href="mailto:YOUR_EMAIL_HERE@gmail.com">
+	<a href="mailto:karimarafat52@gmail.com">
 	  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" />
 	</a>
 	<a href="https://github.com/Abdelkarim-Arafat">
@@ -60,6 +60,11 @@
   <img src="https://img.shields.io/badge/Web%20API-%23512BD4.svg?style=plastic&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=plastic"/>
   <img src="https://img.shields.io/badge/SQL%20Server-%2300758F.svg?style=plastic&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-%23000000.svg?style=plastic"/>
+  <img src="https://img.shields.io/badge/Algorithms-%23000000.svg?style=plastic"/>
+  <img src="https://img.shields.io/badge/OOP-%23000000.svg?style=plastic"/>
+  <img src="https://img.shields.io/badge/SOLID%20Principles-%23000000.svg?style=plastic"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-%23000000.svg?style=plastic"/>
 </p>
 
 ### 🛠 Tools & Technologies
@@ -68,8 +73,6 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-%23000000.svg?style=plastic"/>
-  <img src="https://img.shields.io/badge/SOLID%20Principles-%23000000.svg?style=plastic"/>
 </p>
 
 ---
