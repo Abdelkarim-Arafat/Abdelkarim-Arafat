@@ -45,34 +45,46 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="3%"> My Skills
-
-### 💡 Programming Languages
+## 🌟 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23%20-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="80" title="C++"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" width="80" title="C#"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="80" title="Python"/>
 </p>
 
-### 🖥 Backend Development (.NET)
+---
+
+## 🖥️ Backend Development (.NET)
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?style=plastic&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EF%20Core-%23512BD4.svg?style=plastic&logo=entity-framework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20API-%23512BD4.svg?style=plastic&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=plastic"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-%2300758F.svg?style=plastic&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-%23000000.svg?style=plastic"/>
-  <img src="https://img.shields.io/badge/Algorithms-%23000000.svg?style=plastic"/>
-  <img src="https://img.shields.io/badge/OOP-%23000000.svg?style=plastic"/>
-  <img src="https://img.shields.io/badge/SOLID%20Principles-%23000000.svg?style=plastic"/>
-  <img src="https://img.shields.io/badge/Design%20Patterns-%23000000.svg?style=plastic"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="80" title=".NET Core"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=ef" width="80" title="EF Core"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=webapi" width="80" title="Web API"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=sql" width="80" title="SQL"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=design" width="80" title="Design Patterns"/>
 </p>
 
-### 🛠 Tools & Technologies
+### ✔ Skills of a Junior .NET Backend Developer:
+- **C# Fundamentals**  
+- **ASP.NET Core Web API**  
+- **RESTful APIs**  
+- **Entity Framework Core**  
+- **LINQ**  
+- **SQL Server / MySQL / PostgreSQL**  
+- **Authentication & Authorization (JWT)**  
+- **Clean Code & OOP Principles**  
+- **SOLID Principles**  
+- **Design Patterns (Basic)**  
+- **Data Structures & Algorithms Essentials**
+
+---
+
+## 🛠 Tools & Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git" width="80" title="Git"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="80" title="GitHub"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="80" title="Postman"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="80" title="VS Code"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="80" title="Visual Studio"/>
 </p>
 
 ---
