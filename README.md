@@ -3,16 +3,15 @@
 </h1>
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About me
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%">
 
-- 🏫 I am a **Student** at  
-  **South Valley National University**
+- 🏫 I am a **Student** at **South Valley National University**  
   🔗 http://www.svnu.edu.eg/
-- 💻 I am a **Software Engineering**.
-- 🧠 I love using Software to solve every Problem.
-- 🧩 I am a **competitive problem solver**.
-- 🏆 2x ECPC Finalist.
-- 🏆 1x ACPC Finalist.
+- 💻 I am a **Software Engineer**.
+- 🧠 I love using Software to solve real-world problems.
+- 🧩 Competitive Programmer.
+- 🏆 2× ECPC Finalist.
+- 🏆 1× ACPC Finalist.
 - 🤓 Always learning and improving.
 
 ---
@@ -20,7 +19,9 @@
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="10%"> My Competitive Programming Profile
 
 <div align="center">
-  <a href="https://codeforces.com/profile/Abdelkarim_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="6%"/></a>
+  <a href="https://codeforces.com/profile/Abdelkarim_">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="6%"/>
+  </a>
 </div>
 
 ---
@@ -28,9 +29,18 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect With Me
 
 <p align="center">
-	<a href="mailto:YOUR_EMAIL_HERE@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" /></a>
-	<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" /></a>
-	<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" /></a>
+	<a href="mailto:YOUR_EMAIL_HERE@gmail.com">
+	  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://github.com/Abdelkarim-Arafat">
+	  <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" />
+	</a>
+	<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+	  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" />
+	</a>
+    <a href="https://www.facebook.com/kemo.eladanwa">
+      <img src="https://img.shields.io/badge/Facebook-4267B2.svg?style=plastic&logo=facebook&logoColor=white" />
+    </a>
 </p>
 
 ---
@@ -43,18 +53,23 @@
   <img src="https://img.shields.io/badge/C%23%20-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/>
 </p>
 
-### 🖥 Backend Development
+### 🖥 Backend Development (.NET)
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET%20-%23512BD4.svg?style=plastic&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=plastic&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=plastic&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?style=plastic&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EF%20Core-%23512BD4.svg?style=plastic&logo=entity-framework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20API-%23512BD4.svg?style=plastic&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=plastic"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-%2300758F.svg?style=plastic&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### 🛠 Tools
+### 🛠 Tools & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-%23000000.svg?style=plastic"/>
+  <img src="https://img.shields.io/badge/SOLID%20Principles-%23000000.svg?style=plastic"/>
 </p>
 
 ---
