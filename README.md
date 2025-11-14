@@ -1,20 +1,18 @@
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=1000&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelkarim+Arafat+;Software+Engineer+%F0%9F%92%BB.;BackEnd+Developer+with+.NET+%F0%9F%94%97.;Competitive+Problem+Solver+%F0%9F%8E%AF." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=1000&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelkarim+Arafat+;Software+Engineer+%F0%9F%92%BB.;BackEnd+Developer+with+.NET+%F0%9F%94%97" alt="Typing SVG" />
 </h1>
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About me
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 - 🏫 I am a **Student** at  
-  **South Valley National University**  
+  **South Valley National University**
   🔗 http://www.svnu.edu.eg/
-- 💻 I am a **Software Engineering & BackEnd Developer**.
-- 🧠 I love solving problems using **clean, structured software**.
+- 💻 I am a **Software Engineering**.
+- 🧠 I love using Software to solve every Problem.
 - 🧩 I am a **competitive problem solver**.
-- 📘 I’m currently learning **Data Structures & Algorithms**.
-- ♟ I solve problems on **Codeforces** →  
-  https://codeforces.com/profile/Abdelkarim_
-- 🔧 I work with **C++**, **C#**, **.NET Backend**, and **SQL**.
+- 🏆 2x ECPC Finalist.
+- 🏆 1x ACPC Finalist.
 - 🤓 Always learning and improving.
 
 ---
