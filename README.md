@@ -56,25 +56,27 @@
 
 ## 🖥️ Backend Development (.NET)
 <p align="center">
+  <!-- C# -->
+  <img src="https://skillicons.dev/icons?i=cs" width="80" title="C#"/> &nbsp;
+  <!-- .NET Core -->
   <img src="https://skillicons.dev/icons?i=dotnet" width="80" title=".NET Core"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=ef" width="80" title="EF Core"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=webapi" width="80" title="Web API"/> &nbsp;
+  <!-- ASP.NET Core / Web API -->
+  <img src="https://skillicons.dev/icons?i=webapi" width="80" title="ASP.NET Core Web API"/> &nbsp;
+  <!-- EF Core -->
+  <img src="https://skillicons.dev/icons?i=ef" width="80" title="Entity Framework Core"/> &nbsp;
+  <!-- SQL -->
   <img src="https://skillicons.dev/icons?i=sql" width="80" title="SQL"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=design" width="80" title="Design Patterns"/>
+  <!-- OOP -->
+  <img src="https://skillicons.dev/icons?i=oop" width="80" title="OOP Principles"/> &nbsp;
+  <!-- SOLID -->
+  <img src="https://skillicons.dev/icons?i=solid" width="80" title="SOLID Principles"/> &nbsp;
+  <!-- Design Patterns -->
+  <img src="https://skillicons.dev/icons?i=design" width="80" title="Design Patterns"/> &nbsp;
+  <!-- Data Structures -->
+  <img src="https://skillicons.dev/icons?i=dsa" width="80" title="Data Structures"/> &nbsp;
+  <!-- Algorithms -->
+  <img src="https://skillicons.dev/icons?i=algo" width="80" title="Algorithms"/> 
 </p>
-
-### ✔ Skills of a Junior .NET Backend Developer:
-- **C# Fundamentals**  
-- **ASP.NET Core Web API**  
-- **RESTful APIs**  
-- **Entity Framework Core**  
-- **LINQ**  
-- **SQL Server / MySQL / PostgreSQL**  
-- **Authentication & Authorization (JWT)**  
-- **Clean Code & OOP Principles**  
-- **SOLID Principles**  
-- **Design Patterns (Basic)**  
-- **Data Structures & Algorithms Essentials**
 
 ---
 
