@@ -7,6 +7,7 @@
 
 - 🏫 I am a **Student** at **South Valley National University**  
   🔗 http://www.svnu.edu.eg/
+- 💻 I am Study in **Computer Science**
 - 💻 I am a **Software Engineer**.
 - 🧠 I love using Software to solve real-world problems.
 - 🧩 Competitive Programmer.
