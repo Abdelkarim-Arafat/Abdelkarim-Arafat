@@ -57,19 +57,19 @@
 ## 🖥️ Backend Development (.NET)
 <p align="center">
   <!-- .NET Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="100" title=".NET Core"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" width="100" title=".NET Core"/> &nbsp;
   <!-- EF Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="100" title="Entity Framework Core"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=ef" width="100" title="Entity Framework Core"/> &nbsp;
   <!-- SQL Server -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg" width="100" title="SQL Server"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=sql" width="100" title="SQL Server"/> &nbsp;
   <!-- OOP -->
-  <img src="https://img.shields.io/badge/OOP-Principles-blue?style=for-the-badge&logo=&logoColor=white" width="120" title="OOP Principles"/> &nbsp;
+  <img src="https://img.shields.io/badge/OOP-Principles-blue?style=for-the-badge" width="120" title="OOP Principles"/> &nbsp;
   <!-- SOLID -->
-  <img src="https://img.shields.io/badge/SOLID-Principles-green?style=for-the-badge&logo=&logoColor=white" width="120" title="SOLID Principles"/> &nbsp;
+  <img src="https://img.shields.io/badge/SOLID-Principles-green?style=for-the-badge" width="120" title="SOLID Principles"/> &nbsp;
   <!-- Design Patterns -->
-  <img src="https://img.shields.io/badge/Design-Patterns-orange?style=for-the-badge&logo=&logoColor=white" width="120" title="Design Patterns"/> &nbsp;
-  <!-- Algorithms -->
-  <img src="https://img.shields.io/badge/Algorithms-DS-red?style=for-the-badge&logo=&logoColor=white" width="120" title="Data Structures & Algorithms"/>
+  <img src="https://img.shields.io/badge/Design-Patterns-orange?style=for-the-badge" width="120" title="Design Patterns"/> &nbsp;
+  <!-- Algorithms & DS -->
+  <img src="https://img.shields.io/badge/Algorithms-DS-red?style=for-the-badge" width="120" title="Algorithms & Data Structures"/>
 </p>
 
 
