@@ -57,14 +57,15 @@
 ## 🖥️ Backend Development (.NET)
 <p align="center">
   <!-- .NET Core -->
-  <img src="https://skillicons.dev/icons?i=dotnet" width="100" title=".NET Core"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="100" title=".NET Core"/> &nbsp;
   <!-- EF Core -->
-  <img src="https://skillicons.dev/icons?i=ef" width="100" title="Entity Framework Core"/> &nbsp;
-  <!-- SQL -->
-  <img src="https://skillicons.dev/icons?i=sql" width="100" title="SQL"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="100" title="Entity Framework Core"/> &nbsp;
+  <!-- SQL Server -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg" width="100" title="SQL Server"/> &nbsp;
   <!-- OOP -->
-  <img src="https://skillicons.dev/icons?i=oop" width="100" title="OOP Principles"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="100" title="OOP Principles"/>
 </p>
+
 ---
 
 ## 🛠 Tools & Technologies
